@@ -15,6 +15,7 @@ Overview
 streamlitで立ち上げてもらうと動かすことができます  
 訓練の際使用したプログラムもmodel.pyのなかに含まれています(train_model)  
 ただし訓練画像はアップロードしていません
+sample画像がwebページにあります
 
 ## Demo
 
