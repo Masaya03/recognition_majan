@@ -22,7 +22,11 @@ streamlitで立ち上げてもらうと動かすことができます
 
 ## Requirement
 
-## Usage
+## Usage  
+streamlitの起動  
+```
+streamlit run main.py
+```
 
 ## Install
 
